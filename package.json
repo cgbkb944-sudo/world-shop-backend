@@ -1,0 +1,12 @@
+{
+  "name": "world-shop-backend",
+  "version": "1.0.0",
+  "description": "Backend for World TG Shop",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
